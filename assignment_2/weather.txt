@@ -1,0 +1,5 @@
+------------London------------
+Temperature: 288.18
+Humidity: 55
+Pressure: 1020
+Weather Report: broken clouds
