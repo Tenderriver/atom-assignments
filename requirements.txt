@@ -1,0 +1,13 @@
+pandas
+numpy
+streamlit
+json5==0.9.5
+requests
+datetime
+matplotlib
+seaborn
+gspread
+json
+os
+re
+duckdb
