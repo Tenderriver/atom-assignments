@@ -11,3 +11,4 @@ json
 os
 re
 duckdb
+gsheetsdb==1.0.4

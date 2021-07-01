@@ -1,3 +1,4 @@
 env_variable.json
 data/datacracy_slack
 .vscode
+capstone/.streamlit/secrets.toml
