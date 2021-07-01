@@ -7,7 +7,6 @@ datetime
 matplotlib
 seaborn
 gspread
-json
 os
 re
 duckdb
