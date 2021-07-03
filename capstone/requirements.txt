@@ -7,7 +7,8 @@ datetime
 matplotlib
 seaborn
 gspread
-os
 re
 duckdb
 gsheetsdb==1.0.4
+google.oauth2
+service_account
